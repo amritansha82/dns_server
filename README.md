@@ -101,7 +101,3 @@ The implementation follows the DNS packet format as defined in RFC 1035:
 - **Header** (12 bytes): ID, Flags, Question Count, Answer Count, etc.
 - **Question Section**: Domain name, Query Type, Query Class
 - **Answer Section**: Domain name, Type, Class, TTL, Data Length, Data
-
-## License
-
-MIT License
